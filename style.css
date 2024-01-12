@@ -1,0 +1,40 @@
+body {
+			background-image: url(https://images.pexels.com/photos/1076240/pexels-photo-1076240.jpeg?auto=compress&cs=tinysrgb&w=800);
+			background-attachment: fixed;
+			text-align: center;
+		}
+
+		.description{
+			background-color: white;
+	 	    border:solid;
+	 	    width: 1000px;
+	 	    display:inline-flex;
+	 	    text-align: center;
+	 	    margin-bottom: 20px;
+		}
+
+		.Places {
+				background-color: white ;
+				border:5px solid black;
+				width:450px;
+				padding:5px;
+		}
+		.header {
+			background: light blue;
+			text-align: center;
+			align-content: center;
+			padding:10px;
+			opacity: 1;
+		}
+
+		.section {
+			display:inline-flex;
+			justify-content: center;
+			flex-wrap: wrap;
+			gap:10px;
+			gap:10px;
+		}
+		.img {
+			width:450px;
+			height: 350px;
+		}
